@@ -7,3 +7,5 @@ An extremely simple sample PWA.
 Results of lighthouse audits:
 
 ![Lighthouse Results](Selection_065.png)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
